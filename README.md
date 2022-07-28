@@ -39,6 +39,16 @@ Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) M
  </div>
  
  ---
+ 
+ ### :art: Graphics software
+ <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+
+ </div>
+ 
+ ---
 <div id="badges">
   <a href="https://www.linkedin.com/in/sritay-mistry-45a6a8171/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
