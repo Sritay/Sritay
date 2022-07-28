@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I am Sritay, with a (freshly minted) PhD in nanoscale membranes. 
 
@@ -8,8 +8,8 @@ An example of the work I do: a membrane stopping a particle from going through.
 
 Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) MD package.
 
-
-## :hammer_and_wrench: Languages:
+---
+### :hammer_and_wrench: Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
