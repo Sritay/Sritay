@@ -20,7 +20,7 @@ Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) M
  </div>
  
 
-### :cookie: Molecular dynamics software:
+### :atom: Molecular dynamics software:
 <div>
  <a href="https://www.lammps.org/">  
   <img src="https://img.shields.io/badge/LAMMPS-informational?style=flat"/>
