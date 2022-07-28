@@ -8,6 +8,6 @@ from going through-
 
 <img src="rej_jif.gif" width="250" height="188" />
 
-
+Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) MD package.
 
 
