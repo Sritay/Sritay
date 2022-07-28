@@ -20,6 +20,25 @@ Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) M
  </div>
  
 ---
+
+### :cookie: Molecular dynamics software:
+
+<div>
+ <a href="https://www.lammps.org/">  
+  <img src="https://img.shields.io/badge/LAMMPS-informational?style=flat"/>
+ </a>
+ <a href="http://leandro.iqm.unicamp.br/m3g/packmol/home.shtml">
+  <img src="https://img.shields.io/badge/PACKMOL-informational?style=flat"/>
+ </a>
+ <a href="https://www.ovito.org/">
+  <img src="https://img.shields.io/badge/OVITO-informational?style=flat"/>
+ </a>
+ <a href="https://www.ks.uiuc.edu/Research/vmd/">
+  <img src="https://img.shields.io/badge/VMD-informational?style=flat"/>
+ </a>
+ </div>
+ 
+ ---
 <div id="badges">
   <a href="https://www.linkedin.com/in/sritay-mistry-45a6a8171/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
