@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Sritay, with a (freshly minted) PhD in nanoscale membranes. 
+I am Sritay, a post-doctoral researcher working with nanobubbles, with a PhD in nanoscale membranes. 
 
 <img src="rej_jif.gif" width="250" height="188" />
 
