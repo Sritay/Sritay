@@ -6,7 +6,7 @@ I am Sritay, a post-doctoral researcher working with nanobubbles, with a PhD in 
 
 An example of the work I do: a membrane stopping a particle from going through.  
 
-Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) MD package.
+Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) MD package, and I am actively developing Scientific Machine Learning (SciML) workflows for metastable state generation.
 
 ## :hammer_and_wrench:
 
@@ -18,6 +18,7 @@ Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) M
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
  </div>
  
 
@@ -35,6 +36,11 @@ Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) M
  <a href="https://www.ks.uiuc.edu/Research/vmd/">
   <img src="https://img.shields.io/badge/VMD-informational?style=flat"/>
  </a>
+ <a href="https://www.cp2k.org/">
+  <img src="https://img.shields.io/badge/CP2K-informational?style=flat"/>
+ </a>
+ <img src="https://img.shields.io/badge/ReaxFF-informational?style=flat"/>
+ <img src="https://img.shields.io/badge/SPICA-informational?style=flat"/>
  </div>
  
  
@@ -43,7 +49,21 @@ Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) M
    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="30" height="30"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="30" height="30"/>&nbsp;
+ </div>
 
+
+ ### :brain: Scientific Machine Learning:
+ <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="30" height="30"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="30" height="30"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="30" height="30"/>&nbsp;
+ </div>
+
+
+ ### :rocket: HPC & Engineering:
+ <div>
+   <img src="https://img.shields.io/badge/MPI-informational?style=flat"/>
+   <img src="https://img.shields.io/badge/ARCHER2-informational?style=flat"/>
  </div>
  
  
