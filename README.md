@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Sritay, a post-doctoral researcher working with nanobubbles, with a PhD in nanoscale membranes. 
+I am Sritay, a Computational Physicist specializing in soft matter and nanoscale dynamics. Currently, I focus on using Scientific Machine Learning (SciML) to generate metastable structures for energy applications. 
 
 <img src="rej_jif.gif" width="250" height="188" />
 
