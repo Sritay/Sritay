@@ -3,8 +3,8 @@
 I am Sritay, a Computational Physicist specializing in soft matter and nanoscale dynamics. Currently, I focus on using Scientific Machine Learning (SciML) to generate metastable structures for energy applications. 
 
 <p float="left">
-  <img src="rej_jif.gif" width="250" />
-  <img src="lignin_diverse.gif" width="250" /> 
+  <img src="rej_jif.gif" width="250" align="middle" />
+  <img src="lignin_diverse.gif" width="250" align="middle" /> 
 </p>
 
 An example of the work I do:  
