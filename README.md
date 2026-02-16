@@ -2,9 +2,14 @@
 
 I am Sritay, a Computational Physicist specializing in soft matter and nanoscale dynamics. Currently, I focus on using Scientific Machine Learning (SciML) to generate metastable structures for energy applications. 
 
-<img src="rej_jif.gif" width="250" height="188" />
+<p float="left">
+  <img src="rej_jif.gif" width="250" />
+  <img src="lignin_diverse.gif" width="250" /> 
+</p>
 
-An example of the work I do: a membrane stopping a particle from going through.  
+An example of the work I do:  
+(Left) A membrane stopping a particle from going through.  
+(Right) Diverse lignin conformers generated using [MetaStateGen Diffusion](https://sritay.github.io/metastategen-diffusion/).  
 
 Most of my simulation work is done using the [LAMMPS](https://www.lammps.org/) MD package, and I am actively developing Scientific Machine Learning (SciML) workflows for metastable state generation.
 
